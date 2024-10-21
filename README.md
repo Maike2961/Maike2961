@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">I'm Mayki from São Paulo/SP <br><br>- 🔭 I’m working as Developer Software Assistant <br>- 📚 I'm currently learning Angular and Node <br>- ⚡</h3>
+<h3 align="left">I'm Mayki from São Paulo/SP <br><br>- 🔭 I’m working as Developer Software Assistant <br>- 📚 I'm currently learning C# and Node <br>- ⚡</h3>
 
 ###
 
