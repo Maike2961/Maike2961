@@ -14,19 +14,21 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Olá👋, Sou o Mayki</h1>
+
+### Sou Desenvolvedor de Software, tenho 2 anos de experiência, sou um entusiasta da tecnologia, Gosto de formar e transformar ideias em soluções tecnologias. Com aprendizado rápido, flexibilidade e adaptalidade são uns dos meus pontos fortes, destacando-se quando trabalho em equipe para resolver desafios.
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻 Sobre mim </h3>
 
 ###
 
-<h3 align="left">I'm Mayki from São Paulo/SP <br><br>- 🔭 I’m working as Developer Software Assistant <br>- 📚 I'm currently learning Java <br>- ⚡</h3>
+<h3 align="left">- ⚡ Sou Desenvolvedor FullStack <br>- 🔭 Formado em Análise e Desenvolvimento de Sistemas <br>- 📚 Atualmente estudo Java <br> </h3>
 
 ###
 
-<h2 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
@@ -45,8 +47,6 @@
    <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
    <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
    <img width="12"/>
   <img src="https://camo.githubusercontent.com/8fc9a624a4f4e6c1b9e09db00d81b6d532ea2106c8ee9897fc19b0e70fbcc879/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f616e67756c61722f444430303331" height="40" alt="angular logo"  />
@@ -62,11 +62,15 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
    <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+   <img width="12"/>
+  <img src="https://camo.githubusercontent.com/6d836114e08a9f246b20f8b589a26010ddf99f37b90a157e1df38e19705a5ea5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f737072696e672f737072696e672d6f726967696e616c2e737667" height="40" />
+   <img width="12"/>
+  <img src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" height="40" />
 </div>
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥 Estatisticas :</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Maike2961&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
