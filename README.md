@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="1500" src="https://i.pinimg.com/originals/eb/e6/8e/ebe68e74c1c2fac7dac5650e33821165.gif" />
+  <img height="250" width="600" src="https://i.pinimg.com/originals/eb/e6/8e/ebe68e74c1c2fac7dac5650e33821165.gif" />
 </div>
 
 ###
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,python,flask,django,nodejs,express,java,spring,postgresql,mysql,git,github" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,python,flask,django,nodejs,express,java,spring,postgresql,mysql,git,github,docker,postman" alt="Tech Stack"/>
   </a>
 </p>
 
