@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">- ⚡ Sou Desenvolvedor FullStack <br>- 🔭 Formado em Análise e Desenvolvimento de Sistemas <br>- 📚 Atualmente estudo Java <br> </h3>
+<h3 align="left">- ⚡ Sou Desenvolvedor FullStack <br>- 🔭 Formado em Análise e Desenvolvimento de Sistemas <br>- 📚 Atualmente estudo IA <br> </h3>
 
 ###
 
